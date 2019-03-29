@@ -1,1 +1,16 @@
-/* You can add global styles to this file, and also import other style files */
+body{
+  background-image:url("https://cdn.wallpapersafari.com/79/59/itlLrH.jpg");
+  background-repeat:no-repeat;
+  background-size: cover;
+  font-weight: bold;
+  font-size: 130%;
+  color:black;
+  font-family: Roboto;
+}
+h1{
+  background-color: white;
+  opacity:0.4;
+  color:#1565C0;
+  text-align: center;
+  font-family:Germania One;
+}
