@@ -14,7 +14,7 @@ export class SearchComponent implements OnInit {
   repos;
   userName: string;
 
-  constructor(public apiservice: ApiService, private router: Router) {
+  constructor(public apiservice: ApiService) {
 
     this.apiservice.getUserDetails().subscribe(users => {
       this.user1 = users;
