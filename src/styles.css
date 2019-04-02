@@ -1,16 +1,23 @@
 body{
-  background-image:url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/JrbItQz/snowfall-on-light-blue-seamless-loop-christmas-background-4k-4096x2304_nj20ohzxx__F0000.png");
+  background-image:url("https://hdwallsource.com/img/2018/5/cat-meme-desktop-wallpaper-64262-66431-hd-wallpapers.jpg");
   background-repeat:no-repeat;
   background-size: cover;
   font-weight: bold;
-  font-size: 130%;
-  color:black;
-  font-family: Roboto;
+  font-family:Roboto;
 }
 h1{
   background-color: white;
   opacity:0.4;
   color:#1565C0;
   text-align: center;
-  font-family:Germania One;
+  font-family:Cinzel;
+  color:black;
+}
+.card{
+  opacity:0.6;
+  width:60%;
+  margin-left:25.3%;
+}
+#form{
+  width:100%;
 }
